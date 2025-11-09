@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './cassettiera.css',
 })
 export class Cassettiera {
+  lista = ["giacomo","giacomo","giacomo","giacomo","giacomo","giacomo"]
 
+  
 }
