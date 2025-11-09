@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-casella-posta',
@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './casella-posta.css',
 })
 export class CasellaPosta {
-
+  @Input() utente!: string;
+    ngOnInit() {}
 }
