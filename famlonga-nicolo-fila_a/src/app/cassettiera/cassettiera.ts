@@ -8,7 +8,7 @@ import { CasellaPosta } from '../casella-posta/casella-posta';
   styleUrl: './cassettiera.css',
 })
 export class Cassettiera {
-  lista = ["giacomo","giacomo","giacomo","giacomo","giacomo","giacomo"]
+  lista = ["giacomo","nic","ìa","f","giacomdaojhduahd","dfknsadjfsdf24872984"]
 
   
 }
