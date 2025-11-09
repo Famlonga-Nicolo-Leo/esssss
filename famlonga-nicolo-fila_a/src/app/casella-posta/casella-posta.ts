@@ -9,4 +9,6 @@ import { Component, Input } from '@angular/core';
 export class CasellaPosta {
   @Input() utente!: string;
     ngOnInit() {}
+
+   lista1 = ["frutta","frutta","frutta","frattua","frutta","frutta"]
 }
